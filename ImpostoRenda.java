@@ -2,7 +2,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 /**
- * Cálculo do IR mensal conforme a Tabela do IR - Ano-base 2026 (Figura 2a).
+ * Cálculo do IR anual conforme a Tabela do IR - Ano-base 2026 (Figura 2a).
  */
 public class ImpostoRenda {
 
